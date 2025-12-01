@@ -1,4 +1,4 @@
-﻿//Kadangi kambario matmenys duotyje nebuvo nurodyti, juos įvedžiau pats
+﻿//Kadangi kambario matmenys užduotyje nebuvo nurodyti, juos įvedžiau pats
 int length = 6; //kambario ilgis metrais
 int width = 3; //kambario plotis metrais
 double m2price = 21.4; //1m2
