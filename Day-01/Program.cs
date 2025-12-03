@@ -7,6 +7,6 @@ int area = length * width; //plotas
 
 double totalPrice= (area* m2price) * 1.05; //kaina ivertinus papildomus 5%
 
-Console.WriteLine($"Total price: {totalPrice}.");
+Console.WriteLine($"Total price: {totalPrice}");
 
 Console.ReadLine();
