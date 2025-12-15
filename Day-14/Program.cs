@@ -9,7 +9,6 @@ giftCart.ApplyDiscount("PROMO10");
 Console.WriteLine(giftCart.Total()); 
 
 giftCart.Remove("train");
-Console.WriteLine(giftCart.Total()); 
-
+Console.WriteLine(giftCart.Total());
 
 Console.ReadLine();

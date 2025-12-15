@@ -58,12 +58,5 @@ namespace Day_14
 
             return Math.Round(sum * (1 - discount), 2);
         }
-
-        public void Clear()
-        {
-            ids.Clear();
-            prices.Clear();
-            discount = 0;
-        }
     }
 }
